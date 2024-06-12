@@ -1,0 +1,27 @@
+/* ToDoItem.css */
+.edit-button, .delete-button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .edit-button {
+    background-color: #3c697e; /* Green */
+    color: rgba(44, 85, 132, 0.639);
+  }
+  
+  .delete-button {
+    background-color: #3e5b85; /* Red */
+    color: rgba(47, 75, 116, 0.587);
+  }
+  
+  .task-input {
+    margin-right: 10px;
+    padding: 5px;
+    border: 2px solid #2e4676;
+    border-radius: 4px;
+  }
+  
